@@ -1,0 +1,27 @@
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+
+.matchList {
+  text-align: left;
+  list-style: none;
+  padding: 0;
+}
+
+.match {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0;
+}
+
+.space {
+  margin: 1rem;
+}
+
+.info {
+  text-align: right;
+  margin: 1rem;
+}
